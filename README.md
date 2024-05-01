@@ -1,4 +1,5 @@
-# Practice with git and GitHub for DevOps
+# Practice with git and GitHub for DevOps.
+
 
 \[Your Step 3 Edit Here\]
 
